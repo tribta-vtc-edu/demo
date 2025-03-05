@@ -1,2 +1,6 @@
 <h1>Hello GitHub</h1>
+<<<<<<< HEAD
 long time no see
+=======
+Hello Thay!!!!
+>>>>>>> parent of 0e47673 (gui thay)
